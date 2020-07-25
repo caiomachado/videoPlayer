@@ -1,0 +1,3 @@
+# Video Player
+
+#11 Project from JavaScript 30 days by Wes Bos where we create a customized video player and learn about its features, for example how to speed up the video, turn up or down the volume, etc...
